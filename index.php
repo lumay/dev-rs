@@ -9,6 +9,11 @@ $sdk = new SdkFacade([
         "name" => "Cours",
         "client_id" => "",
         "client_secret" => ""
+    ],
+    [
+        "name" => "Facebook",
+        "client_id" => "1093203704408257",
+        "client_secret" => "e8cae2df6c9aa5e45a26e80edffcfe57"
     ]
 ]);
 

@@ -7,6 +7,7 @@ class SdkFacade
 
     private static $declareSdk = [
         "Cours" => ProviderCours::class,
+	    "Facebook" => ProviderFacebook::class
     ];
 
     private $instances;
